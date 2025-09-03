@@ -52,4 +52,4 @@ The application provides a simple interface where you can upload a fish image, a
 **Demo Video📹**
 
 Check out a live demo of the project on my LinkedIn:
-[LinkedIn Demo Link](https://www.google.com/search?q=YOUR_LINKEDIN_VIDEO_URL)
+https://www.linkedin.com/posts/monica-umamageswaran_python-deeplearning-machinelearning-activity-7368976547417894914--XmH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_7PqYBCyvYmCOnir7XtTdIJhnL6JtNqSA
